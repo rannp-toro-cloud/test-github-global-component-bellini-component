@@ -1,0 +1,1 @@
+# test-github-global-component-bellini-component
