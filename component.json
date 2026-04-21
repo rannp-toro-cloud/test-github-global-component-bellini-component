@@ -1,0 +1,9 @@
+{
+  "type": "component",
+  "name": "test-github-global-component",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
