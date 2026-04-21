@@ -1,7 +1,39 @@
 {
   "type": "component",
   "name": "test-github-global-component",
-  "children": [],
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "ZaNCSK"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
   "variables": [],
   "bindings": [],
   "modules": [],
